@@ -6,11 +6,10 @@ This is a frontend project I developed while following a YouTube tutorial. The p
 
 1. **User Authentication**
    - User can sign up and log in with their credentials.
-   - Form validation ensures secure and proper input during registration.
 
 2. **Food Menu Display**
    - Beautifully designed food cards display food images, names, and prices.
-   - Categories allow users to filter food items (e.g., Appetizers, Mains, Desserts).
+   - Categories allow users to filter food items (e.g., Salad, Pasta, Desserts).
 
 3. **Add to Cart**
    - Users can add items to the shopping cart with a single click.
@@ -18,7 +17,6 @@ This is a frontend project I developed while following a YouTube tutorial. The p
 
 4. **Price Calculation**
    - The total cost updates automatically based on items in the cart.
-   - Includes tax and discounts (if applicable).
 
 5. **Food Categories**
    - Organized by food type for better navigation and user experience.
